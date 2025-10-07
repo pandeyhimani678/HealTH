@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "AudiCare HEALth",
+    "slug": "audicare-health",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#1abc9c"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1abc9c"
+      }
+    }
+  }
+}
